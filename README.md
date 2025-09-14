@@ -1,4 +1,4 @@
-Hi, I am Aria Agarwal, a second-year Data Science + Biology student studying at Northeastern University. 
+Hi, I am Aria Agarwal, a third-year Data Science + Biology student studying at Northeastern University. 
 I currently work as a Research Assistant at the Gyori Lab for Computational Biomedicine @ Northeastern. 
 
 <!---
